@@ -7,7 +7,7 @@ COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmet
 
 THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
 
-Half Wave Rectifier
+
 
 
 Mains power supply is applied at the primary of the step-down transformer. All the positive half cycles of the stepped down ac supply pass through the diode and all the negative half cycles get eliminated. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V because of the voltage drop across the diode.
@@ -36,18 +36,54 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+
+
+
+<img width="372" height="114" alt="image" src="https://github.com/user-attachments/assets/06856496-bf32-40fa-b151-33c7ccab137c" />
+
+
+
+
+
+
 
 Bridge rectifier with filter:
 
+<img width="560" height="146" alt="image" src="https://github.com/user-attachments/assets/05e9b465-f4ba-4c0e-acc2-c03ab288cd23" />
+
 TABULAR COLUMN
 Rectifier without filter
+
+
+
+
+<img width="630" height="122" alt="image" src="https://github.com/user-attachments/assets/9fc187eb-16ca-4053-ab17-fd7f6a9db8dc" />
+
 TABULAR COLUMN
 Rectifier with filter
+
+
+
+
+<img width="630" height="122" alt="image" src="https://github.com/user-attachments/assets/c1f1d1cd-0927-49bf-8a86-3ab670405b0e" />
+
 
 WAVEFORM:
 
 
+
+
+
+<img width="460" height="120" alt="image" src="https://github.com/user-attachments/assets/24793b09-c40b-4cc4-81bc-2d88300ee798" />
+
+<img width="577" height="218" alt="image" src="https://github.com/user-attachments/assets/f14fae12-76f9-4bef-93b5-fab6c3d00a24" />
+
+
+
+
+
 RESULT:
+
+
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
